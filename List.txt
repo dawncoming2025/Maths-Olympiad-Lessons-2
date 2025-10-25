@@ -1,0 +1,26 @@
+01 末位数 lesson26.mp4
+02 剩余类和完全平方数 lesson27.mp4
+03 一类恒整除问题的解决 lesson28.mp4
+04 费马小定理及其应用 lesson29.mp4
+05 简单的同余方程 lesson30.mp4
+06 整式乘除与乘法公式 lesson31.mp4
+07 因式分解一 lesson32.mp4
+08 因式分解二 lesson33.mp4
+09 因式分解的应用 lesson34.mp4
+10 分式的概念与运算一 lesson35.mp4
+11 分式的概念与运算二 lesson36.mp4
+12 分式的概念与运算三 lesson37.mp4
+13 部分分式与分式方程 lesson38.mp4
+14 实数与根式一 lesson39.mp4
+15 实数与根式二 lesson40.mp4
+16 一次不定方程 lesson41.mp4
+17 特殊不定方程的解法一 lesson42.mp4
+18 特殊不定方程的解法二 lesson43.mp4
+19 加法原理和乘法原理一 lesson44.mp4
+20 加法原理和乘法原理二 lesson45.mp4
+21 抽屉原理一 lesson46.mp4
+22 抽屉原理二 lesson47.mp4
+23 平面直角坐标系 lesson48.mp4
+24 一次函数与反比例函数 lesson49.mp4
+25 [x]与{x}一 lesson50.mp4
+26 [x]与{x}二 lesson51-1.mp4 lesson51-2.mp4
